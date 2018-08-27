@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">KotlinRecyclerviewSample</string>
+
+    <string-array name="city">
+        <item>Tokyo</item>
+        <item>NewYork</item>
+        <item>Paris</item>
+        <item>Sydney</item>
+        <item>Beijing</item>
+    </string-array>
+
+</resources>
